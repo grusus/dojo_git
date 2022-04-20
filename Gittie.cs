@@ -15,6 +15,11 @@ public void add(int a, int b)
     int c = a + b;
     global::System.Console.WriteLine(c);
 }
+public void shout()
+{
+    global::System.Console.WriteLine("BEEEEEEEEE");
+}
+}
 
 public void Shout()
 {
