@@ -1,5 +1,6 @@
 public void Introduce()
 {
+    Console.WriteLine("Hi, I'm Gittie!");
     Console.WriteLine("Welcome stranger, I'm Gittie!");
 }
 
